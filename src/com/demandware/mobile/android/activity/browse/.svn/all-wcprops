@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/android/!svn/ver/9/trunk/src/com/demandware/mobile/android/activity/browse
+END
+CatalogBrowseListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/android/!svn/ver/9/trunk/src/com/demandware/mobile/android/activity/browse/CatalogBrowseListActivity.java
+END
+CategoryListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/android/!svn/ver/9/trunk/src/com/demandware/mobile/android/activity/browse/CategoryListActivity.java
+END
+CatalogBrowseActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/android/!svn/ver/9/trunk/src/com/demandware/mobile/android/activity/browse/CatalogBrowseActivity.java
+END
+ProductListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/android/!svn/ver/9/trunk/src/com/demandware/mobile/android/activity/browse/ProductListActivity.java
+END
+ModelActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/android/!svn/ver/9/trunk/src/com/demandware/mobile/android/activity/browse/ModelActivity.java
+END
+ProductActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/android/!svn/ver/9/trunk/src/com/demandware/mobile/android/activity/browse/ProductActivity.java
+END
+CatalogBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/android/!svn/ver/9/trunk/src/com/demandware/mobile/android/activity/browse/CatalogBrowser.java
+END

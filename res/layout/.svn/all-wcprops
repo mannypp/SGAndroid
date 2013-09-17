@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/android/!svn/ver/6/trunk/res/layout
+END
+category_row_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/android/!svn/ver/2/trunk/res/layout/category_row_layout.xml
+END
+main_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/android/!svn/ver/2/trunk/res/layout/main_layout.xml
+END
+product_search_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/android/!svn/ver/2/trunk/res/layout/product_search_layout.xml
+END
+product_row_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/android/!svn/ver/2/trunk/res/layout/product_row_layout.xml
+END
+cart_header_row_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/android/!svn/ver/2/trunk/res/layout/cart_header_row_layout.xml
+END
+login_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/android/!svn/ver/3/trunk/res/layout/login_layout.xml
+END
+cart_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/android/!svn/ver/2/trunk/res/layout/cart_layout.xml
+END
+splash_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/android/!svn/ver/2/trunk/res/layout/splash_layout.xml
+END
+list_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/android/!svn/ver/2/trunk/res/layout/list_layout.xml
+END
+account_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/android/!svn/ver/3/trunk/res/layout/account_layout.xml
+END
+empty_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/android/!svn/ver/3/trunk/res/layout/empty_layout.xml
+END
+cart_row_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/android/!svn/ver/2/trunk/res/layout/cart_row_layout.xml
+END
+product_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/android/!svn/ver/2/trunk/res/layout/product_layout.xml
+END
+profile_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/android/!svn/ver/6/trunk/res/layout/profile_layout.xml
+END

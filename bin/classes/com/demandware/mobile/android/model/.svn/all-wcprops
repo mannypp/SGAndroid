@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/android/!svn/ver/2/trunk/src/com/demandware/mobile/android/model
+END
+Product.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/android/!svn/ver/12/trunk/src/com/demandware/mobile/android/model/Product.java
+END
+VariationAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/android/!svn/ver/2/trunk/src/com/demandware/mobile/android/model/VariationAttribute.java
+END
+ModelObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/android/!svn/ver/2/trunk/src/com/demandware/mobile/android/model/ModelObject.java
+END
+CartItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/android/!svn/ver/2/trunk/src/com/demandware/mobile/android/model/CartItem.java
+END
+Cart.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/android/!svn/ver/2/trunk/src/com/demandware/mobile/android/model/Cart.java
+END
+ModelObjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/android/!svn/ver/2/trunk/src/com/demandware/mobile/android/model/ModelObjectImpl.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/android/!svn/ver/11/trunk/src/com/demandware/mobile/android/model/Category.java
+END
+VariationAttributeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/android/!svn/ver/2/trunk/src/com/demandware/mobile/android/model/VariationAttributeValue.java
+END

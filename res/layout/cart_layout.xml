@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:padding="4px">
+	
+	<TextView android:id="@+id/cartHeader"
+	    android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="20sp"
+		android:layout_alignParentTop="true"
+		android:text="@string/cart"/>	
+    <Button android:id="@+id/updateButton"
+        android:layout_width="160sp"
+        android:layout_height="40sp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:enabled="false"
+        android:text="@string/update"/>
+	<Button android:id="@+id/checkoutButton"
+        android:layout_width="160sp"
+        android:layout_height="40sp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/updateButton"
+        android:enabled="false"
+        android:text="@string/checkout"/>
+   	<TextView android:id="@+id/subtotalLabel"
+	    android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="4px"
+		android:layout_marginBottom="4px"
+		android:layout_marginLeft="4px"
+		android:layout_marginRight="4px"
+		android:layout_above="@id/updateButton"
+		android:text="@string/subtotal"/>
+	<TextView android:id="@+id/subtotal"
+	    android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:gravity="right"
+		android:layout_marginTop="4px"
+		android:layout_marginBottom="4px"
+		android:layout_marginLeft="4px"
+		android:layout_marginRight="4px"
+		android:layout_above="@id/updateButton"
+		android:layout_toRightOf="@id/subtotalLabel"
+		android:text="@string/subtotal"/>
+	<ScrollView android:id="@+id/cartScroll"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/cartHeader"
+        android:layout_above="@id/subtotalLabel">
+        <TableLayout android:id="@+id/cartTable"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:stretchColumns="0,2"
+            android:shrinkColumns="1">
+        </TableLayout>
+    </ScrollView>
+</RelativeLayout>

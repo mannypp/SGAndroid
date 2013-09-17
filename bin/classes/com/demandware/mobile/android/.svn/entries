@@ -1,0 +1,43 @@
+10
+
+dir
+10
+http://dw-mparasirakis.int.demandware.com:90/svn/android/trunk/src/com/demandware/mobile/android
+http://dw-mparasirakis.int.demandware.com:90/svn/android
+
+
+
+2012-03-20T02:27:12.113693Z
+10
+mparasirakis
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+1fa75f61-4b49-1543-a376-f250d633cde1
+
+adapter
+dir
+
+model
+dir
+
+task
+dir
+
+activity
+dir
+
+util
+dir
+

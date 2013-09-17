@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/android/!svn/ver/9/trunk/src/com/demandware/mobile/android/adapter
+END
+CategoryListViewAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/android/!svn/ver/2/trunk/src/com/demandware/mobile/android/adapter/CategoryListViewAdapter.java
+END
+ModelListViewAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/android/!svn/ver/9/trunk/src/com/demandware/mobile/android/adapter/ModelListViewAdapter.java
+END
+ProductListViewAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/android/!svn/ver/2/trunk/src/com/demandware/mobile/android/adapter/ProductListViewAdapter.java
+END

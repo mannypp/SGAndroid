@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/android/!svn/ver/7/trunk/src/com/demandware/mobile/android/task
+END
+HttpGetWebServiceTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/android/!svn/ver/11/trunk/src/com/demandware/mobile/android/task/HttpGetWebServiceTask.java
+END
+HttpPatchWebServiceTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/android/!svn/ver/11/trunk/src/com/demandware/mobile/android/task/HttpPatchWebServiceTask.java
+END
+ModelWebServiceTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/android/!svn/ver/11/trunk/src/com/demandware/mobile/android/task/ModelWebServiceTask.java
+END
+ProductWebServiceTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/android/!svn/ver/11/trunk/src/com/demandware/mobile/android/task/ProductWebServiceTask.java
+END
+HttpPostWebServiceTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/android/!svn/ver/11/trunk/src/com/demandware/mobile/android/task/HttpPostWebServiceTask.java
+END
+ImageLoaderTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/android/!svn/ver/11/trunk/src/com/demandware/mobile/android/task/ImageLoaderTask.java
+END
+HttpRequestListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/android/!svn/ver/11/trunk/src/com/demandware/mobile/android/task/HttpRequestListener.java
+END
+ListModelWebServiceTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/android/!svn/ver/11/trunk/src/com/demandware/mobile/android/task/ListModelWebServiceTask.java
+END

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:padding="4px"
+	android:orientation="vertical">
+	
+    <Button android:id="@+id/logoutButton"
+        android:layout_width="fill_parent"
+        android:layout_height="50sp"
+        android:text="@string/logoutButtonText"
+        android:layout_margin="10sp"/>
+    <Button android:id="@+id/profileInfo"
+        android:layout_width="fill_parent"
+        android:layout_height="50sp"
+        android:text="@string/profileInfo"
+        android:layout_margin="10sp"/>
+    <Button android:id="@+id/shippingAddress"
+        android:layout_width="fill_parent"
+        android:layout_height="50sp"
+        android:text="@string/shippingAddress"
+        android:layout_margin="10sp"/>
+    <Button android:id="@+id/billingAddress"
+        android:layout_width="fill_parent"
+        android:layout_height="50sp"
+        android:text="@string/billingAddress"
+        android:layout_margin="10sp"/>
+</LinearLayout>

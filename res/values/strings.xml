@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">SiteGenesis</string>
+    <string name="rootTitle">SiteGenesis</string>
+    
+    <!-- Window Titles -->
+    <string name="error">Error</string>
+    <string name="info">Info</string>
+    <string name="login">Login</string>
+    
+    <!-- Tab Labels -->
+    <string name="browse">Browse</string>
+    <string name="search">Search</string>
+    <string name="cart">Cart</string>
+    <string name="account">Account</string>
+                
+    <!-- Button Labels -->
+    <string name="ok">OK</string>
+    <string name="addToCart">Add to Cart</string>   
+    <string name="checkout">Checkout</string>   
+    <string name="update">Update</string>   
+        
+    <!-- Messages -->
+    <string name="itemAddedToCart">Item successfully added to cart</string>
+    <string name="invalidNumberOfParameters">Invalid number of parameters</string>
+    <string name="activityNotHttpRequestListener">The supplied activity for operation %1$s is not an HttpPostListener. Callback will not be called.</string>
+    <string name="productCannotBeAddedToCart">Product %1$s cannot be added to cart</string>
+    <string name="selectVariant">Select Product</string>
+    <string name="noResultsFound">No Results Found</string>
+    <string name="loggedIn">Successfully Logged In</string>
+    <string name="loggedOut">Successfully Logged Out</string>
+    <string name="profileUpdated">Successfully Updated Profile</string>
+        
+    <!-- Cart Strings -->
+    <string name="quantityHeader">Quantity</string>
+    <string name="itemHeader">Item</string>
+    <string name="priceHeader">Price</string>
+    <string name="subtotal">Subtotal</string>   
+    <string name="remove">Remove</string>
+    
+    <!-- Account Strings -->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="loginButtonText">Login</string>
+    <string name="logoutButtonText">Logout</string>
+    <string name="profileInfo">Profile Information</string>
+    <string name="shippingAddress">Shipping Address</string>
+    <string name="billingAddress">Billing Address</string>
+    <string name="profileGenderPrompt">Gender</string>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>

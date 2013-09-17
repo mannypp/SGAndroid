@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.demandware.mobile.android"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="7" />
+	<uses-permission android:name="android.permission.INTERNET" />
+    
+    <application android:icon="@drawable/demandware_logo" android:label="@string/app_name" android:debuggable="true">
+        <activity android:name=".activity.SplashScreenActivity" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"
+            android:clearTaskOnLaunch="true">            
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.SiteGenesisActivity" android:theme="@android:style/Theme.NoTitleBar"
+            android:clearTaskOnLaunch="true">
+            <intent-filter>
+                <action android:name="com.demandware.mobile.android.activity.SiteGenesisActivity"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>            
+        <activity android:name=".activity.cart.CartActivity" android:clearTaskOnLaunch="true">
+        	<intent-filter>
+        	    <action android:name="com.demandware.mobile.android.activity.cart.DISPLAY_CART_TAB"/>
+        	    <category android:name="android.intent.category.DEFAULT"/>
+        	</intent-filter>    
+        </activity>            
+        <activity android:name=".activity.browse.CatalogBrowser" android:clearTaskOnLaunch="true"/>            
+        <activity android:name=".activity.browse.CategoryListActivity" android:clearTaskOnLaunch="true"/>            
+        <activity android:name=".activity.browse.ProductListActivity" android:clearTaskOnLaunch="true"/>            
+        <activity android:name=".activity.browse.ProductActivity" android:clearTaskOnLaunch="true"/>            
+        <activity android:name=".activity.search.ProductSearchBrowser" android:clearTaskOnLaunch="true"/>            
+        <activity android:name=".activity.search.ProductSearchActivity" android:clearTaskOnLaunch="true"/>            
+        <activity android:name=".activity.account.AccountActivity" android:clearTaskOnLaunch="true"/>            
+        <activity android:name=".activity.account.ProfileActivity" android:clearTaskOnLaunch="true"/>
+    </application>
+</manifest>

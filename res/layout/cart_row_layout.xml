@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cartRow"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:layout_weight="1"
+	android:padding="4px">
+	
+	<EditText android:id="@+id/cartQuantity"
+	    android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="4px"
+		android:layout_marginRight="4px"
+		android:singleLine="true"
+		android:scrollHorizontally="true"/>
+	<TextView android:id="@+id/cartProduct"
+	    android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="4px"
+		android:layout_marginRight="4px"/>
+    <TextView android:id="@+id/cartPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4px"
+        android:layout_marginRight="4px"/>
+    <ImageView android:id="@+id/removeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4px"
+        android:layout_marginRight="4px"
+        android:layout_marginTop="14px"
+        android:src="@drawable/removebutton"/>
+</TableRow>
